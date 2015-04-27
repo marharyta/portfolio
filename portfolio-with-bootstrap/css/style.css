@@ -4,7 +4,7 @@
 
 #top-section{
 	
-	background-image: url("../images/flowers.jpg");
+	background-image: url("../images/flowers-cover.jpeg");
 	background-attachment: fixed;
 	background-position: right;
 	background-repeat: no-repeat;
@@ -15,7 +15,7 @@
 #top-section_first-column{
 	/*background-color: lightblue;*/
 	background-color: ghostwhite;
-	padding-bottom: 38px;
+	padding-bottom: 48px;
 	
 }
 
