@@ -66,3 +66,9 @@
   #social-media ul li{
   	text-decoration: underline;
   }
+
+  .website_info ul li{
+  	text-align: left;
+  	position: relative;
+  	left: -25px;
+  }
